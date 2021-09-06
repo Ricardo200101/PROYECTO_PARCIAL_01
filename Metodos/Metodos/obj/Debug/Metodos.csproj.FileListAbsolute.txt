@@ -1,0 +1,6 @@
+C:\Users\Ricardo Alvarez\source\repos\Metodos\Metodos\bin\Debug\Metodos.dll
+C:\Users\Ricardo Alvarez\source\repos\Metodos\Metodos\bin\Debug\Metodos.pdb
+C:\Users\Ricardo Alvarez\source\repos\Metodos\Metodos\obj\Debug\Metodos.csproj.AssemblyReference.cache
+C:\Users\Ricardo Alvarez\source\repos\Metodos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Alvarez\source\repos\Metodos\Metodos\obj\Debug\Metodos.dll
+C:\Users\Ricardo Alvarez\source\repos\Metodos\Metodos\obj\Debug\Metodos.pdb
